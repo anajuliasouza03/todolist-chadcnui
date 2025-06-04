@@ -8,7 +8,7 @@ export const Menu = () => {
     <div>
       <div className="flex items-center justify-center mb-2">
         <Button variant={"link"}>
-          <a href="https://github.com/anajuliasouza03?tab=overview&from=2024-06-01&to=2024-06-09">
+          <a href="https://github.com/anajuliasouza03/todolist-chadcnui.git">
             <Github />
           </a>
         </Button>
